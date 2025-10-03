@@ -45,6 +45,7 @@ public class Feeder {
             numDays--;
             days++;
         }
+        return days;
     }
 
 }
